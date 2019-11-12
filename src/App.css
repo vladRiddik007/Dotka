@@ -1,0 +1,23 @@
+.heroes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.heroesAgi {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.heroesStr {
+    width: 400px;
+    margin: 0 auto;
+}
+.heroesInt {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.findHero {
+    transform: scale(1.5);
+
+}
