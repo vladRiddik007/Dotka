@@ -6,7 +6,7 @@ import Axios from "axios";
 import Heroes from "./Component/Heroes/Heroes";
 import { BrowserRouter, Route } from "react-router-dom";
 import Hero from "./Component/Heroes/Hero/Hero";
-
+//prosto comentarii
 class App extends React.Component {
   state = {
     heroes: [],
