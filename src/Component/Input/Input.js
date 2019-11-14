@@ -34,7 +34,7 @@ class Input extends React.Component{
       <div >
         <form onSubmit={this.handleSubmit} className={s.Input}>
           <label>
-            <input type="text" className={s.input} onChange={this.handleChange}/>
+            <input type="text" className={s.input} onChange={this.handleChange} placeholder='Введи имя героя'/>
           </label>
           <div>
             <input type="submit" value="Search" className={s.btn} 

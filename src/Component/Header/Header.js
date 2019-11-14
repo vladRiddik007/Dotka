@@ -7,7 +7,7 @@ class Header extends React.Component{
   render() {
     return(
       <div className={s.header}>
-        <a href='/'>Drink vodka, Play Dotka</a>
+        <a href='/'>Drink vodka, Play Dotka!!!</a>
       </div>
     )
   }
